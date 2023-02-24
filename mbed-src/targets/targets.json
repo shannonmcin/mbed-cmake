@@ -3807,7 +3807,10 @@
         "detect_code": [
             "0765"
         ],
-        "device_name": "STM32L476RGTx"
+        "device_name": "STM32L476RGTx",
+        "overrides": {
+            "lse_available": 0
+        }
     },
     "DISCO_L476VG": {
         "inherits": [
