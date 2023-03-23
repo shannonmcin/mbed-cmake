@@ -3810,7 +3810,8 @@
         "device_name": "STM32L476RGTx",
         "overrides": {
             "lse_available": 0
-        }
+        },
+        "device_has_add": ["USBDEVICE"]
     },
     "DISCO_L476VG": {
         "inherits": [
